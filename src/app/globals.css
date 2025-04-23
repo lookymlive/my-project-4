@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Remove the media query and use explicit classes */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+[data-theme='dark'] {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+/* Add !important to override any conflicting styles */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--foreground) !important;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Force full opacity on text elements */
+p, span, h1, h2, h3, h4, h5, h6 {
+  opacity: 1 !important;
+}
+
+/* For specific section titles that need to be prominent */
+.section-title {
+  color: #171717; /* Or you could use text-black for maximum contrast */
+  opacity: 1;
+}

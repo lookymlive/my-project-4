@@ -1,0 +1,9 @@
+{
+  "/(default)/settings/page": "app/(default)/settings/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(default)/home/page": "app/(default)/home/page.js",
+  "/(default)/library/page": "app/(default)/library/page.js",
+  "/(default)/notifications/page": "app/(default)/notifications/page.js",
+  "/(default)/watch-later/page": "app/(default)/watch-later/page.js",
+  "/(default)/history/page": "app/(default)/history/page.js"
+}
