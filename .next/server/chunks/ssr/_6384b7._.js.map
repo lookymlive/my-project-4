@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/usuario/Desktop/my-project-4/src/app/page.tsx"],"sourcesContent":["import { redirect } from 'next/navigation';\r\n\r\nexport default function RootPage() {\r\n  redirect('/home');\r\n}\r\n"],"names":[],"mappings":";;;AAAA;AAAA;;AAEe,SAAS;IACtB,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE;AACX"}},
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

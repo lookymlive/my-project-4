@@ -1,6 +1,6 @@
 {
   "app": {
-    "[project]/src/app/(default)/settings/page": [
+    "[project]/src/app/page": [
       "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2"
     ],
     "[project]/src/app/(default)/home/page": [
@@ -13,9 +13,6 @@
       "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2"
     ],
     "[project]/src/app/(default)/watch-later/page": [
-      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2"
-    ],
-    "[project]/src/app/(default)/history/page": [
       "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2"
     ]
   },
